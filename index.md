@@ -1,37 +1,91 @@
-## Welcome to GitHub Pages
+# Chance Corbeil
 
-You can use the [editor on GitHub](https://github.com/chancecorbeil/Resume/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Full stack developer + WordPress specialist 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I would like to express my interest in the WordPress Developer position. I design and develop websites and I have 12 years of professional experience. 
 
-### Markdown
+# Chance Corbeil
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Full stack developer + WordPress specialist 
 
-```markdown
-Syntax highlighted code block
+## **Employment History**
 
-# Header 1
-## Header 2
-### Header 3
+### **Trillium Solutions** 
+Web Designer / Developer	2021 – Present (2 years) 
 
-- Bulleted
-- List
+Portland, Oregon Area
 
-1. Numbered
-2. List
+### **WP Strategy** 
+Web Designer / Developer	2015 – 2020 
 
-**Bold** and _Italic_ and `Code` text
+Portland, Oregon Area
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
-### Jekyll Themes
+* Design and develop websites in WordPress.
+* Setup and manage hosting solutions.
+* Scope projects and write estimates.
+* Search engine optimize websites.
+* Work closely with clients to identify project goals, and provide project updates.
+* Provide training on website use and management.
+* Sole designer / developer on all projects.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/chancecorbeil/Resume/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### **All Fantastic** 
+Web Designer / Developer	May 2013 – May 2016
 
-### Support or Contact
+Portland, Oregon Area
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
+
+* Design and develop websites in WordPress.
+* Setup and manage hosting solutions.
+* Scope projects and write estimates.
+* Search engine optimize websites.
+* Work closely with clients to identify project goals, and provide project updates.
+* Provide training on website use and management.
+* Sole designer / developer on all projects.
+
+### **Watermelon Web Works** 
+Web Developer**	**October 2012 – November 2015 
+
+Portland, Oregon Area 
+
+
+
+* Develop websites and WordPress themes from design briefs.
+* Scope projects and write estimates.
+* Identify software / compatibility to achieve project functionality goals.
+* Search engine optimize websites.
+* Work closely with clients to identify project goals, and provide project updates.
+* Provide training on website use and management.
+* Perform monthly website maintenance.
+* Write articles and blog posts.
+
+
+## **Education**
+
+
+### **Columbus College of Art & Design	**2005 – 2009** 
+_Bachelor of Fine Arts (B.F.A.)_**, Commercial and Advertising Art
+
+
+## **Skills**
+
+PHP, JS, HTML5, CSS3, SASS, Website Design & Development, Ecommerce, Page Speed, User Experience, Responsive Design, SEO, Client Communications, Transferring Websites, Analytics, Security, WooCommerce, and WordPress
+
+
+## **Websites I Built**
+
+Portland Chinatown Museum: https://www.portlandchinatownmuseum.org
+
+Snorkel Store: http://thesnorkelstore.com
+
+Housecall Providers: https://www.housecallproviders.org
+
+OSC Elate: http://oscelate.com
+
+BPMI USA: https://bpmi-usa.com
+
+McCulloch Foundation: http://mccullochfoundation.org
+
+Meet Goodwill (part of a team): https://meetgoodwill.org
