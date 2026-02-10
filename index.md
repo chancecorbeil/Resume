@@ -2,12 +2,15 @@
 
 Full stack developer + WordPress specialist in Portland, Oregon
 
-I design and develop websites and I have 12 years of professional experience. 
+I design and develop websites and I have 17 years of professional experience. 
 
 ## **Employment History**
 
+### **Optibus** 
+Acquired Trillium Solutions
+
 ### **Trillium Solutions** 
-Web Designer / Developer	2021 – Present (2 years) 
+Web Designer / Developer	2021 – Present (5 years) 
 Portland, Oregon Area
 
 ### **WP Strategy** 
