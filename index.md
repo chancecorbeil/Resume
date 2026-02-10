@@ -10,7 +10,7 @@ I’m passionate about clear communication, long-term site stewardship, and maki
 
 Communicating with clients and team members is an essential skill for my success as a developer. I work well with others to communicate project expectations, budgets, and timelines. I’ve worked closely with many projects as the sole project manager and developer.
 
-If you are looking for an expert WordPress developer with frontend development and client communication skills, short term or long term, I am a reliable choice.
+If you are looking for an expert WordPress developer with frontend development and client communication skills, I am a reliable choice.
 
 ## **Employment History**
 
@@ -46,7 +46,7 @@ Portland, Oregon Area
 * Sole designer / developer on all projects.
 
 ### **Watermelon Web Works** 
-Web Developer**	**October 2012 – November 2015 
+Web Developer - October 2012 – November 2015 
 Portland, Oregon Area 
 
 * Develop websites and WordPress themes from design briefs.
