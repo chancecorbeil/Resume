@@ -2,7 +2,15 @@
 
 Full stack developer + WordPress specialist in Portland, Oregon
 
-I design and develop websites and I have 17 years of professional experience. 
+I’m a seasoned web developer with 17+ years of experience building, optimizing, and maintaining websites that are fast, accessible, and user-focused. Specializing in WordPress, I create custom themes, plugins, and scalable solutions for businesses, nonprofits, and public transit agencies.
+
+Over the last five years at Trillium Solutions (acquired by Optibus), I’ve developed public transit websites, interactive maps, and GTFS-integrated tools used daily by riders. My expertise includes improving site performance, SEO, UX/UI, ecommerce, and accessibility, meeting WCAG Level AA standards. I’ve established organization-wide accessibility processes, standardized theme development, and built reusable Gutenberg blocks to accelerate delivery without compromising quality.
+
+I’m passionate about clear communication, long-term site stewardship, and making the web accessible to everyone. Whether managing DNS and hosting, building complex integrations, or training clients, I approach every project with a blend of technical precision and creative problem-solving.
+
+Communicating with clients and team members is an essential skill for my success as a developer. I work well with others to communicate project expectations, budgets, and timelines. I’ve worked closely with many projects as the sole project manager and developer.
+
+If you are looking for an expert WordPress developer with frontend development and client communication skills, short term or long term, I am a reliable choice.
 
 ## **Employment History**
 
