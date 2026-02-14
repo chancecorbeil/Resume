@@ -69,6 +69,10 @@ _Bachelor of Fine Arts (B.F.A.)_**, Commercial and Advertising Art
 
 PHP, JS, HTML5, CSS3, SASS, Website Design & Development, Ecommerce, Page Speed, User Experience, Responsive Design, SEO, Client Communications, Transferring Websites, Analytics, Security, WooCommerce, and WordPress
 
+## **Transit Agency Website Skills**
+
+GTFS, WCAAG Level AA, Interactive Maps, Realtime Arrivals, Trip Planners, Schematic Maps, Standardized Transit Agency Website Theme, GTFS importing software
+
 ### Transit websites I built at work
 
 * [TCRTA](https://gotcrta.org/)
