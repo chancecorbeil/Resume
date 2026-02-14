@@ -71,7 +71,7 @@ PHP, JS, HTML5, CSS3, SASS, Website Design & Development, Ecommerce, Page Speed,
 
 ## **Transit Agency Website Skills**
 
-GTFS, WCAAG Level AA, Interactive Maps, Realtime Arrivals, Trip Planners, Schematic Maps, Standardized Transit Agency Website Theme, GTFS importing software
+GTFS, WCAG Level AA, Interactive Maps, Realtime Arrivals, Trip Planners, Schematic Maps, Standardized Transit Agency Website Theme, GTFS importing software
 
 ### Transit websites I built at work
 
