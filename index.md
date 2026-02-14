@@ -69,13 +69,18 @@ _Bachelor of Fine Arts (B.F.A.)_**, Commercial and Advertising Art
 
 PHP, JS, HTML5, CSS3, SASS, Website Design & Development, Ecommerce, Page Speed, User Experience, Responsive Design, SEO, Client Communications, Transferring Websites, Analytics, Security, WooCommerce, and WordPress
 
+### Transit websites I built at work
 
-## **Websites I Built**
+* [TCRTA](https://gotcrta.org/)
+* [Anaheim Transportation Network](https://rideart.org/)
+* [Merrimack Valley Transit](https://mevatransit.com/)
+* [Radford Transit](https://radfordtransit.com/)
+* [Placer County Transit](https://placercountytransit.com/)
+* [Rogue Valley Transportation District](https://rvtd.org/)
+* [Santa Rosa CityBus](https://srcitybus.org/)
+* [South Central Transit](https://southcentraltransit.org/)
+* [Vamos Mobility](https://vamosmobility.com/)
+* [Vermont GTFS](https://vermont-gtfs.org/)
+* [Oregon GTFS](https://oregon-gtfs.com/)
+* [Basin Transit](https://basin-transit.com/)
 
-Portland Chinatown Museum: https://www.portlandchinatownmuseum.org
-Snorkel Store: http://thesnorkelstore.com
-Housecall Providers: https://www.housecallproviders.org
-OSC Elate: http://oscelate.com
-BPMI USA: https://bpmi-usa.com
-McCulloch Foundation: http://mccullochfoundation.org
-Meet Goodwill (part of a team): https://meetgoodwill.org
