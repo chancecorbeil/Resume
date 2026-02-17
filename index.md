@@ -67,7 +67,7 @@ _Bachelor of Fine Arts (B.F.A.)_**, Commercial and Advertising Art
 
 ## **Skills**
 
-PHP, JS, HTML5, CSS3, SASS, Website Design & Development, Ecommerce, Page Speed, User Experience, Responsive Design, SEO, Client Communications, Transferring Websites, Analytics, Security, WooCommerce, and WordPress
+PHP, JS, HTML5, CSS3, SASS, JQuery, mysql, Git, Website Design & Development, WordPress, Gutenberg blocks, Wordpress Rest API, UX/UI, ADA Web Accessibility, Ecommerce, Page Speed, User Experience, Responsive Design, SEO, Client Communications, Analytics, Security, WooCommerce
 
 ## **Transit Agency Website Skills**
 
